@@ -147,7 +147,7 @@ then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya #Salam HackeR"
+echo $cy"Terima Kasih Sudah Pakai Tool TN.404"
 sleep 2
 echo $i"Bila Ada yang error Bisa Nanya Kepada Saya"
 sleep 2
